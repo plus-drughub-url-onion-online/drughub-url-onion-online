@@ -25,4 +25,6 @@ If your goal is to explore everything this darknet marketplace provides, priorit
 <a href="http://ys4fenuwwagecir4avgajycoozdmyn2prxbkeq6vngtr7bvbe6pdt6qd.onion"><img src="/elements/bottom.webp" alt="image" style="max-width: 100%;"><a>  
 <a href="http://ys4fenuwwagecir4avgajycoozdmyn2prxbkeq6vngtr7bvbe6pdt6qd.onion"><img src="/elements/part.webp" alt="image" style="max-width: 100%;"><a>
 
-Update: Fixed broken link, now reachable
+
+
+Update:  21 July 2025
