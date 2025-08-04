@@ -29,4 +29,6 @@ If your goal is to explore everything this darknet marketplace provides, priorit
 
 
 
-Update:  07/24/2025 12-14-02 I'm pleased to announce that the link is back up.
+
+
+Update:  08/04/2025
