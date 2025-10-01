@@ -43,4 +43,6 @@ If your goal is to explore everything this darknet marketplace provides, priorit
 
 
 
-Update:  18 September 2025 Fixed broken link, now accessible and live
+
+
+Update:  10/01/2025 onion URLs updated
